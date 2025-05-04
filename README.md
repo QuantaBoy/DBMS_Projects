@@ -19,7 +19,7 @@ Artificial Intelligence And Data Science Student
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java" width="48" height="48"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="48" height="48"/></a><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/sql.png" alt="sql" width="48" height="48"/></a><img width="48" height="48" src="https://img.icons8.com/fluency/48/artificial-intelligence--v1.png" alt="artificial-intelligence--v1"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="48" height="48"/></a><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/sql.png" alt="sql" width="48" height="48"/></a><img width="48" height="48" src="https://img.icons8.com/fluency/48/artificial-intelligence--v1.png" alt="artificial-intelligence--v1"/>
 </p>
 
 
